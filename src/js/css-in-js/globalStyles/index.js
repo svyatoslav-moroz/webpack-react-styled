@@ -2,11 +2,11 @@ import { createGlobalStyle } from 'styled-components';
 import rem from '../mixins/rem';
 import reset from 'styled-reset'
 import { normalize } from 'styled-normalize';
-import RobotoThin from '../fonts/Roboto-Thin.ttf';
-import RobotoLight from '../fonts/Roboto-Light.ttf';
-import RobotoRegular from '../fonts/Roboto-Regular.ttf';
-import RobotoMedium from '../fonts/Roboto-Medium.ttf';
-import RobotoBold from '../fonts/Roboto-Bold.ttf';
+import RobotoThin from '../../../fonts/Roboto-Thin.ttf';
+import RobotoLight from '../../../fonts/Roboto-Light.ttf';
+import RobotoRegular from '../../../fonts/Roboto-Regular.ttf';
+import RobotoMedium from '../../../fonts/Roboto-Medium.ttf';
+import RobotoBold from '../../../fonts/Roboto-Bold.ttf';
 
 const grid_max_width = 1600;
 
